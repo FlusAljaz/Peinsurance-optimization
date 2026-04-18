@@ -1,0 +1,25 @@
+# LaTeX intermediate files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Bibliography
+*.bbl
+*.blg
+
+# Build directories
+/build/
+/out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
